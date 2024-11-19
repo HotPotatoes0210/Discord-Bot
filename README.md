@@ -1,5 +1,5 @@
 # Discord chat bot
-This is a discord chat bot which i make for my discord channel, the bot can play music, give news from some specific youtube channels and also you can with him (as Simsimi) when you feel bored. I name this chat bot " Phóng viên Lê Hồng Quang " - The name of a popular reporter in Vietnam. You can search for him on the google if you want to know more about him :)
+This is a discord chat bot which i make for my discord channel, the bot can play music, give news from some specific youtube channels and also you can chat with him (as Simsimi) when you feel bored. I name this chat bot " Phóng viên Lê Hồng Quang " - The name of a popular reporter in Vietnam. You can search for him on the google if you want to know more about him :)
 
 ## Installation
 First, you have to clone the repository by: 
